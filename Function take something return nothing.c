@@ -3,7 +3,7 @@
 main()
 {
 	int x,y;
-	printf("Enter Any Two Number For add.");
+	printf("Enter Any Two Number For Add.");
 	scanf("%d%d",&x,&y);
 	void add(int x,int y);
 	add(x,y);
@@ -11,7 +11,7 @@ main()
 }
 void add(int a,int b)
 {
-	int c;
-	c=a+b;
-	printf("Sum of x and y is %d",c);
+	int z;
+	z=a+b;
+	printf("Sum of numbers is %d",z);
 }
