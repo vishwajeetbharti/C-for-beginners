@@ -1,5 +1,5 @@
 #include <stdio.h>
-void Addeven();55
+void Addeven();
 void main()
 {
     int a[11], x;
