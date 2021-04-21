@@ -4,7 +4,7 @@ union intro
 {
     char name[20];
     char fname[20];
-    long int Phone;
+    long double Phone;
 };
 void main()
 {

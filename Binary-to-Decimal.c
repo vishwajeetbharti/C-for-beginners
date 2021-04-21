@@ -1,7 +1,8 @@
 #include<stdio.h>
     int convert_bin_to_dec(int num)
     {
-   	 if (!(num / 10)) return (num);
+   	 if (!(num / 10)) 
+	 return (num);
    	 return (num % 10 + convert_bin_to_dec(num / 10) * 2); 
      }
 int main()
