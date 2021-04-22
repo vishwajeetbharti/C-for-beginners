@@ -3,7 +3,7 @@
 {
 int a[10],i, j, n, temp;
 
-printf("\n Enter the no. of elements \n");
+printf("Enter the no. of elements \n");
 scanf("%d",&n);
 
 printf("\n Enter %d elements \n",n); 
