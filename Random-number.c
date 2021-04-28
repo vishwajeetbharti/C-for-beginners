@@ -19,7 +19,6 @@ int main()
 	srand(time(0));
 
 	printRandoms(lower, upper, count);
-
 	return 0;
 }
 
